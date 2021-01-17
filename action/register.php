@@ -1,6 +1,5 @@
 <?php
 $username = "";
-$emailRepeat = "";
 $password ="";
 $passwordRepeat ="";
 $errors = [];
